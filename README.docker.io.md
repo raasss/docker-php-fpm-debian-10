@@ -16,7 +16,7 @@
 	Issues can be filed on [GitHub Issues](https://github.com/raasss/docker-php-fpm-debian-10/issues) under specific branch named by specific package version.
 
 -	**Supported architectures**:
-    `linux/amd64`, `linux/arm/v7`, `linux/arm64` 
+    `linux/amd64`, `linux/arm64` 
 
 -	**Source of this description**:  
 	[README.docker.io.md]([here](https://github.com/raasss/docker-php-fpm-debian-10/blob/main/README.docker.io.md))
